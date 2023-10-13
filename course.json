@@ -1,0 +1,113 @@
+{
+    "courseTitle": "Mesh PBL",
+    "authors": [
+        "Mesh and Gimbalabs"
+    ],
+    "modules": [
+        {
+            "id": "100",
+            "title": "Getting Started With MeshJS",
+            "slts": [
+                {
+                    "id": "100.1",
+                    "slt": "I have a Cardano Browser wallet extension installed on my computer."
+                },
+                {
+                    "id": "100.2",
+                    "slt": "I have NodeJS installed on my local computer."
+                },
+                {
+                    "id": "100.3",
+                    "slt": "I am familiar with some essentials of the React framework, like components, props, and hooks."
+                },
+                {
+                    "id": "100.4",
+                    "slt": "I can integrate Mesh into a new Project."
+                }
+            ]
+        },
+        {
+            "id": "101",
+            "title": "Browser Wallet Integration",
+            "slts": [
+                {
+                    "id": "101.1",
+                    "slt": "I can use Mesh to connect a CIP-30 compliant wallet to a decentralized application."
+                },
+                {
+                    "id": "101.2",
+                    "slt": "I can see information about my wallet in my web browser."
+                },
+                {
+                    "id": "101.3",
+                    "slt": "I can build a component that lists the assets in my browser wallet."
+                }
+            ]
+        },
+        {
+            "id": "102",
+            "title": "Mesh React",
+            "slts": [
+                {
+                    "id": "102.1",
+                    "slt": "I can set up Mesh Provider so that I can use Mesh React Components and Hooks."
+                },
+                {
+                    "id": "102.2",
+                    "slt": "I can connect or disconnect wallet using useWallet hook."
+                },
+                {
+                    "id": "102.3",
+                    "slt": "I can get the connected wallet address using useAddress hook."
+                },
+                {
+                    "id": "102.4",
+                    "slt": "I can get a list of assets or tokens in connected wallets using useAssets hook."
+                },
+                {
+                    "id": "102.5",
+                    "slt": "I can get information regarding the amount of ADA in lovelace in the connected wallet using useLovelace hook."
+                },
+                {
+                    "id": "102.6",
+                    "slt": "I can get information about the connected wallet network using useNetwork hook."
+                }
+            ]
+        },
+        {
+            "id": "201",
+            "title": "Transactions",
+            "slts": []
+        },
+        {
+            "id": "202",
+            "title": "Minting",
+            "slts": []
+        },
+        {
+            "id": "203",
+            "title": "Multi-Sig",
+            "slts": []
+        },
+        {
+            "id": "204",
+            "title": "Smart Contract Interactions",
+            "slts": []
+        },
+        {
+            "id": "205",
+            "title": "Staking",
+            "slts": []
+        },
+        {
+            "id": "206",
+            "title": "Wallet Verification and Message Signing",
+            "slts": []
+        },
+        {
+            "id": "207",
+            "title": "App Wallet",
+            "slts": []
+        }
+    ]
+}
