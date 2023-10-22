@@ -4,3 +4,5 @@ Welcome to Andamio. The purpose of this repo is to show you how to organize PBL 
 
 1. A `course.json` file
 2. A course content directory
+
+Initial outline: https://github.com/MeshJS/mesh/wiki/Modules
