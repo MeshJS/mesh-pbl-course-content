@@ -6,6 +6,6 @@
   "description": "",
   "videoURL": "",
   "lastEdited": "",
-  "author": "",
+  "author": ""
 }
 ---

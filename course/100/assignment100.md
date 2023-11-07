@@ -6,7 +6,7 @@
   "description": "In this assignment, you will get a project running...",
   "videoURL": "",
   "lastEdited": "",
-  "author": "",
+  "author": ""
 }
 ---
 
